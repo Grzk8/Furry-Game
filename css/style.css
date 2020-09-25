@@ -74,3 +74,14 @@ section#over pre {
 .invisible {
   display: none;
 }
+
+.furry{
+  background-image: url("../images/furry.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.coin{
+  background-image: url("../images/coin.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
