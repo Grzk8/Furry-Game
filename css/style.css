@@ -59,16 +59,21 @@ section#over {
   top: 0;
   z-index: 1;
   padding: 10px;
-  background-color: rgba(255, 255, 0, 0.75);
+  background-color: rgb(238, 252, 40);
 }
 
-section#over pre {
+section#over div {
   display: inline-block;
   width: 100%;
   text-align: center;
-  font-size: 10px;
+  font-size: 100px;
   font-weight: bolder;
-  color: brown;
+  color: rgb(226, 0, 0);
+}
+section#over button {
+  padding: 8px;
+  margin-left: 48%;
+  cursor: pointer;
 }
 
 .invisible {
